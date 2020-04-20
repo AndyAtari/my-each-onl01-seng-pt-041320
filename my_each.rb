@@ -5,5 +5,5 @@ def my_each(lego)# put argument(s) here
     yield(lego[i])
     i += 1
   end
-  lego 
+  lego
 end
